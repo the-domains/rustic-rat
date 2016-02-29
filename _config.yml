@@ -1,0 +1,28 @@
+name: Rustic Rat
+favicon: null
+layout_spectrum: 0.4189604390412569
+typography_spectrum: 0.41732514882460237
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.6703549851663411
+  lightness: 0.4058523625135422
+  saturation: 0.0649255660828203
+  rhythmicContrast: 0.22984264162369072
+purpose: []
