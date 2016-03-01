@@ -4,7 +4,7 @@
         <description><![CDATA[Repurposing Everything]]></description>
         <link>https://thegrid.ai/rustic-rat/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 01 Mar 2016 22:17:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Mar 2016 22:22:39 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/rustic-rat/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,13 +12,6 @@
             <link>https://thegrid.ai/rustic-rat/8ea4daaa-ba33-4c49-9cc3-3a67c8de54a5/index.html</link>
             <guid isPermaLink="false">8ea4daaa-ba33-4c49-9cc3-3a67c8de54a5</guid>
             <pubDate>Tue, 01 Mar 2016 22:17:03 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Rustic Rat Logo]]></title>
-            <description><![CDATA[<article><h1>Rustic Rat Logo</h1><p>Repurposing All Things</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/9ebecc08ccce5fc7bdcdc67028baa7b7f94eeb73.png"></article>]]></description>
-            <link>https://thegrid.ai/rustic-rat/b9e3f5b9-152d-4ea8-9bdf-8601fb6c2bcc/index.html</link>
-            <guid isPermaLink="false">b9e3f5b9-152d-4ea8-9bdf-8601fb6c2bcc</guid>
-            <pubDate>Tue, 01 Mar 2016 22:13:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
